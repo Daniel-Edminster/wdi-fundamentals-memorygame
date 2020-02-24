@@ -1,5 +1,5 @@
 /* =============================
-GENERAL STYLES 
+GENERAL STYLES
 ================================ */
 body {
   font-family: "Raleway", sans-serif;
@@ -121,4 +121,16 @@ footer {
 .name {
   color: #F15B31;
   font-weight: bold;
+}
+
+button {
+
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+  color: white;
+
+  background: black;
+  border-radius: 30px;
+  padding: 15px 30px 15px 30px;
+  border: 1px solid #ccc;
 }
